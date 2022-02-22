@@ -51,7 +51,7 @@ service-identity==18.1.0
 six==1.12.0
 soupsieve==2.0.1
 traitlets==4.3.2
-Twisted==20.3.0
+Twisted==22.1.0
 typed-ast==1.4.0
 urllib3==1.25.9
 virtualenv==16.7.5

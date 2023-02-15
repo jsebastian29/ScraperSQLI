@@ -57,6 +57,6 @@ urllib3==1.26.5
 virtualenv==16.7.5
 w3lib==1.22.0
 wcwidth==0.1.7
-Werkzeug==0.15.6
+Werkzeug==2.2.3
 wrapt==1.11.2
 zope.interface==5.1.0
